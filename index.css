@@ -1,0 +1,55 @@
+div {
+    margin: 2rem;
+}
+input, label {
+    margin: 20px;
+    font-size: 25px;
+}
+label {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+input {
+    border-radius:10px;
+}
+input:focus {
+    background-color: darkslategray;
+    color: #fff;
+}
+input:hover {
+    background-color: yellowgreen;
+}
+h1 {
+    margin-left: 1rem;
+    background-color: darkblue;
+    color: #fff;
+    padding: 10px 15px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 10px 15px;
+    box-shadow: 4px 4px 8px darkorange;
+    border: 2px groove yellow;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+button {
+    background-color: fuchsia;
+    color: black;
+    padding: 10px 10px 15px;
+    box-shadow: 4px 4px 8px yellow;
+    border: 2px groove darkred;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
